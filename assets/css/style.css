@@ -226,6 +226,7 @@ body {
 #slider .text-desc {
     font-weight: bold;
     margin-top: 25px;
+    text-shadow: 0 0 10px #000;
 }
 
 #content {
